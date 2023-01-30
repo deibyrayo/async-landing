@@ -1,0 +1,20 @@
+{
+  "name": "async-landing",
+  "version": "1.0.0",
+  "description": "practice landing page where you can consume an api, with all the things learned about asynchronous java script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lightningcode-d/async-landing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lightningcode-d/async-landing/issues"
+  },
+  "homepage": "https://github.com/lightningcode-d/async-landing#readme"
+}
